@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmad020
+- 👋 Hi, I’m Ali Ahmad
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m willing to learn as much as i can.
