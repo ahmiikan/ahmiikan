@@ -19,3 +19,16 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
   <img align="left" width="12" />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img align="left" width="12" />
+</br>
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jquery logo"  />
+  <img align="left" width="12" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+  <img align="left" width="12" />
+  <img align="left" src="https://cdn.simpleicons.org/laravel/FF2D20" height="50" alt="laravel logo"  />
+  <img align="left" width="12" />
+  <img align="left" src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="mysql logo"  />
+  <img align="left" width="12" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+  <img align="left" width="12" />
+  <img align="left" src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
+  <img align="left" width="12" />
