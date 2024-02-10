@@ -6,7 +6,7 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
 </p>
 
 # Languages & Tools 💻
-
+<br>
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
     <img width="24" />
