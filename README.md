@@ -7,7 +7,7 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
 
 # Languages & Tools 💻
 
-<div align="left" style="margin-bottom: 4px;">
+<div align="left" style="margin-bottom: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
     <img width="24" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
@@ -22,7 +22,7 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
     <img width="24" />
 </div>
 
-<div align="left" style="margin-bottom: 4px;">
+<div align="left" style="margin-bottom: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jquery logo" />
     <img width="24" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" />
@@ -37,7 +37,7 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
     <img width="24" />
 </div>
 
-<div align="left" style="margin-bottom: 4px;">
+<div align="left" style="margin-bottom: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
     <img width="24" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
@@ -51,4 +51,5 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
     <img width="24" />
 </div>
+
 
