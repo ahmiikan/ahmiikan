@@ -7,7 +7,7 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
 
 # Languages & Tools 💻
 
-    <img align="left" margin-bottom="4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img align="left" margin-bottom="4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img align="left" width="12" />
   <img align="left" margin-bottom="4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img align="left" width="12" />
