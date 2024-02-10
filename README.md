@@ -73,7 +73,7 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
 </div>
 
 # Discord's Information:
-[![Discord Zoro](https://lanyard.cnrad.dev/api/611818668455755809?theme=dark&bg=0D0D0D&animated=true&idleMessage=Prolly+sleeping)](https://discord.com/users/839253601293172787)
+[![Discord Presence](https://lanyard.cnrad.dev/api/611818668455755809)](https://discord.com/users/611818668455755809)
 
 
 ```js
