@@ -74,7 +74,7 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
 
 # Discord's Information:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/611818668455755809?theme=dark&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...))](https://discord.com/users/611818668455755809)
+[![Discord Presence](https://lanyard.cnrad.dev/api/611818668455755809?theme=dark&borderRadius=20px&bg=0D0D0D&animated&idleMessage=Probably%20doing%20something%20else...))](https://discord.com/users/611818668455755809)
 
 
 ```js
@@ -99,16 +99,16 @@ aka: "zoro, ahmii",
   <a href="https://www.instagram.com/ahm._.kan/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="">
+  <a href="https://discord.com/users/611818668455755809">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="twitter_url">
+  <a href="https://twitter.com/ahmad_kan_">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="youtube_url">
+  <a href="https://www.youtube.com/channel/UC5OBEfNEt4rfr5LPb1mGdXw">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="linktree_url">
+  <a href="https://linktr.ee/ahmii._.kan">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
   </a>
 </div>
