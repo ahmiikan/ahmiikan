@@ -19,7 +19,8 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
   <img align="left" width="12" />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img align="left" width="12" />
-</br>
+
+  
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jquery logo"  />
   <img align="left" width="12" />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
