@@ -52,5 +52,3 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
     <img width="24" />
 </div>
 
-    <img width="24" />
-</div>
