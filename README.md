@@ -58,9 +58,9 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
 
 <br clear="both">
 
-[![](https://visitcount.itsvg.in/api?id=crueldev69&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <div align="center">
+
+  [![](https://visitcount.itsvg.in/api?id=crueldev69&icon=0&color=0)](https://visitcount.itsvg.in)  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cruelzoro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
  </br>
   <img src="https://github-readme-stats.vercel.app/api?username=cruelzoro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -71,6 +71,23 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
   </br>
   <img   src="https://github-readme-activity-graph.vercel.app/graph?username=cruelzoro&radius=16&theme=github-dark&area=true&order=5&custom_title=Zoro's%20Contribution&hide_border=true" height="200" alt="activity-graph graph"  />
 </div>
+
+# Discord's Information:
+[![Discord Zoro](https://lanyard.cnrad.dev/api/611818668455755809?theme=dark&bg=0D0D0D&animated=true&idleMessage=Prolly+sleeping)](https://discord.com/users/839253601293172787)
+
+
+```js
+const Zoro = userInfo({
+username: "Cruel Zoro",
+discriminator: "3924",
+tag: "ahmii._.kan#3924",
+user_ID: "611818668455755809",
+servers_owned: 1,
+bots_owned: 3,
+aka: "zoro, ahmii",
+});
+```
+
 
 # Social Media 👀
 
