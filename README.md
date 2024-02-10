@@ -4,8 +4,6 @@
 <p align="left">Hey there! I'm Ali Ahmad, currently doing my bachelor's in </br> Software Engineering from <a href="https://www.vu.edu.pk/">Virtual University of Pakistan</a>. I'm passionate </br> about staying ahead of the curve when it comes to the latest </br> technologies and spend my days breaking and creating code. <br>
 As a dedicated and innovative software engineer, I am driven by my </br> passion for leveraging technology to solve real-world problems and enhance user experiences. With a solid foundation in computer science and a knack for </br> staying updated on emerging technologies, I continually strive to push the boundaries of what's possible in software development.
 </p>
-</br>
-</br>
 
 # Languages & Tools 💻
 
