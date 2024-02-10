@@ -4,7 +4,7 @@
 <p align="left">Hey there! I'm Ali Ahmad, currently doing my bachelor's in Software Engineering from <a href="https://www.vu.edu.pk/">Virtual University of Pakistan</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and spend my days breaking and creating code. <br>
 As a dedicated and innovative software engineer, I am driven by my passion for leveraging technology to solve real-world problems and enhance user experiences. With a solid foundation in computer science and a knack for staying updated on emerging technologies, I continually strive to push the boundaries of what's possible in software development.
 </p>
-   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="80" alt="c logo"  />
   <img align="left" width="12" />
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img align="left" width="12" />
