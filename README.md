@@ -51,17 +51,21 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
     <img width="24" />
 </div>
-<br>
-***
+</br>
+</br>
 # Stats 📈
 
 <br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cruelzoro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>br>
   <img src="https://github-readme-stats.vercel.app/api?username=cruelzoro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  </br>
   <img src="https://streak-stats.demolab.com?user=cruelzoro&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  </br>
   <img src="https://github-profile-trophy.vercel.app?username=cruelzoro&theme=algolia&column=3&row=1&margin-w=19&margin-h=0&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  </br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cruelzoro&radius=16&theme=github-dark&area=true&order=5&custom_title=Zoro's%20Contribution&hide_border=true" height="200" alt="activity-graph graph"  />
 </div>
 
