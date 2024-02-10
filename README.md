@@ -57,7 +57,7 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
 # Stats 📈
 
 <br clear="both">
-
+![views](https://komarev.com/ghpvc/?username=CruelDev69&&style=for-the-badge&&color=0D0D0D&&label=TOTAL+VIEWS+ON+GITHUB+PROFILE) 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cruelzoro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
  </br>
@@ -76,10 +76,10 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
   <a href="https://www.facebook.com/ahmiikan">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="instagram_url">
+  <a href="https://www.instagram.com/ahm._.kan/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="discord_url">
+  <a href="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="twitter_url">
