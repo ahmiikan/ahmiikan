@@ -73,7 +73,8 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
 </div>
 
 # Discord's Information:
-[![Discord Presence](https://lanyard.cnrad.dev/api/611818668455755809)](https://discord.com/users/611818668455755809idleMessage=:hlo)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/611818668455755809?theme=dark&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...))](https://discord.com/users/611818668455755809idleMessage=:hlo)
 
 
 ```js
