@@ -33,3 +33,24 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
   <img align="left" width="12" />
   <img align="left" src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
   <img align="left" width="12" />
+
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img align="left" width="12" />
+  <img align="left" src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img align="left" width="12" />
+  <img align="left" src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
+  <img align="left" width="12" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img align="left" width="12" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visualstudio logo"  />
+  <img align="left" width="12" />
+  <img align="left" src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img align="left" width="12" />
+
+  <img align="left" src="https://cdn.simpleicons.org/replit/F26207" height="50" alt="replit logo"  />
+  <img align="left" width="12" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows8 logo"  />
+  <img align="left" width="12" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img align="left" width="12" />
+  <img align="left" src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
