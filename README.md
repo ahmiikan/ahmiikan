@@ -1,6 +1,6 @@
 ***
 # About Me ✨
-<img align="right" src="https://cdn.discordapp.com/attachments/1204087439157628948/1209545092323614730/Github_Gif_-_Made_with_Clipchamp_1.gif?ex=65e74fa6is=65d4daa6hm=2e7e0110592612a957fa77ce8a8a3d2cb9867bb0daa27d5cf66f15f69cd45220" width="360" height="500">
+<img align="right" src="https://discord.com/channels/1191856993099591711/1204087439157628948/1209545092667408384" width="360" height="500">
 <p align="left">Hey there! I'm Ali Ahmad, currently doing my bachelor's in </br> Software Engineering from <a href="https://www.vu.edu.pk/">Virtual University of Pakistan</a>. I'm passionate </br> about staying ahead of the curve when it comes to the latest </br> technologies and spend my days breaking and creating code. <br>
 As a dedicated and innovative software engineer, I am driven by my </br> passion for leveraging technology to solve real-world problems and enhance user experiences. With a solid foundation in computer science and a knack for </br> staying updated on emerging technologies, I continually strive to push the boundaries of what's possible in software development.  I thrive in <br> dynamic environments where collaboration and creativity intersect.
 </p>
