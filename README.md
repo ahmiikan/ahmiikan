@@ -80,14 +80,14 @@ As a dedicated and innovative software engineer, I am driven by my </br> passion
 
 
 ```js
-const Zoro = userInfo({
-username: "Cruel Zoro",
+const A` = userInfo({
+username: "k_s31",
 discriminator: "3924",
-tag: "ahmii._.kan#3924",
+tag: "k_s31#3924",
 user_ID: "611818668455755809",
 servers_owned: 1,
 bots_owned: 3,
-aka: "zoro, ahmii",
+aka: "zoro, A`",
 });
 ```
 
