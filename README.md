@@ -5,10 +5,8 @@
 As a dedicated and innovative software engineer, I am driven by my </br> passion for leveraging technology to solve real-world problems and enhance user experiences. With a solid foundation in computer science and a knack for </br> staying updated on emerging technologies, I continually strive to push the boundaries of what's possible in software development.  I thrive in <br> dynamic environments where collaboration and creativity intersect.
 </p>
 
-<div align left>
-    
 # Languages & Tools 💻
-</div>
+
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
     <img width="24" />
