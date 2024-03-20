@@ -86,8 +86,8 @@ discriminator: "3924",
 tag: "k_s31#3924",
 user_ID: "611818668455755809",
 servers_owned: 1,
-bots_owned: 3,
-aka: "zoro, A`",
+bots_owned: ∞ ,
+aka: "Zoro, A`",
 });
 ```
 
